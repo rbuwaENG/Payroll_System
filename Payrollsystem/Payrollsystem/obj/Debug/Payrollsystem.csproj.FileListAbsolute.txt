@@ -1,0 +1,13 @@
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.Employee.resources
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.Properties.Resources.resources
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.csproj.GenerateResource.cache
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.csproj.CoreCompileInputs.cache
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.csproj.AssemblyReference.cache
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\bin\Debug\Payrollsystem.exe.config
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\bin\Debug\Payrollsystem.exe
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\bin\Debug\Payrollsystem.pdb
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.exe
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.pdb
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.MainUi.resources
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.Salary.resources
+G:\3d_print\assigmnet\programming\Payrollsystem\Payrollsystem\obj\Debug\Payrollsystem.Settings.resources

@@ -1,0 +1,3 @@
+Monthly Salary Report for Employee 2, Month 12
+Base-pay value: 16100
+Gross-pay value: 0
